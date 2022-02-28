@@ -6,4 +6,15 @@ This contains all the small python projects over the time I have spent on python
 
 All of these programs are made by me, and no one else.
 
-Test line being added by Nitin Mehrotra.
+## List of Projects
+
+|Name of Project  | Short Description  |
+|---------|---------|
+|Boss Game    |  Plays a fighting game with the computer.  |
+|Coin Flipper | Flips a coin number of times asking the user to guess how many times the coin lands on heads.  |
+|Row3     |         |
+|Row4     |         |
+|Row5     |         |
+|Row6     |         |
+|Row7     |         |
+|Row8     |         |
